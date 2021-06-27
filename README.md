@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 * Loves Automation using Python
 * Have relevant knowledge of BFSI Domain
 
-<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/ataltiwari/"/>
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
 ### Technology Stack 🧰 
 
