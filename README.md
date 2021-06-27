@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently working at TCS as System Engineer (Digital) for Morgan Stanley.
+* I am currently working at TCS as System Engineer (Digital) for Morgan Stanley.
+* Loves coding in Python
+* Loves Automation using Python
+* Have relevant knowledge of BFSI Domain.
+* 
 
 <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/ataltiwari/"/>
 
@@ -42,3 +46,11 @@ I am currently working at TCS as System Engineer (Digital) for Morgan Stanley.
 
 
  ![Visitor Count](https://profile-counter.glitch.me/{ataltiwari96}/count.svg)
+ 
+[twitter]: https://twitter.com/Atal_Tiwari
+[Hashnode]: https://hashnode.com/@ataltiwari
+[linkedin]: https://www.linkedin.com/in/ataltiwari/
+[Medium]: https://medium.com/@ataltiwari
+[Facebook]: https://www.facebook.com/AtalTiwarFC
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
