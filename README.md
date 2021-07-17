@@ -85,12 +85,9 @@ Here are some ideas to get you started:
 
 
 
- <details>
-<summary>📊 Github Stats</summary>
+### Github Stats 📊:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ataltiwari96&show_icons=true&theme=gotham" alt="Atal Tiwari | Stats" />
-
-</details>
 
 
  ![Visitor Count](https://profile-counter.glitch.me/{ataltiwari96}/count.svg)
