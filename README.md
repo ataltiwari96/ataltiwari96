@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 [Medium]: https://medium.com/@ataltiwari
 [Facebook]: https://www.facebook.com/AtalTiwarFC
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by tapping on ⭐ to some of my repositories 😉</h3>
+<h3 align="center">~Show some &nbsp;❤️&nbsp; by tapping on ⭐ to some of my repositories 😉~</h3>
