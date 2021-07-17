@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 * 🔘Have relevant knowledge of Banking & Financial Services Domain.
 * 🔘Technology Stack: Python, Angular, RESTful APIs, Flask, Unix, Shell Scripting, GIT, JIRA, KDB+/Q, Data Science, InfluxDB, Grafana, NLP, etc.
 
+### Links 🔗:
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
 ### Badges 📛:
