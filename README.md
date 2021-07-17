@@ -47,6 +47,42 @@ Here are some ideas to get you started:
 <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="Angular" width="40" height="40"/>
 </p>
 
+### ACHIEVEMENTS & AWARDS
+
+•	TCS Gems Star Of The Month Award
+•	TCS Gems On The Spot Award
+•	TCM Gems Fresco Play Miles Award
+•	Outstanding Student of the Year Award
+•	Winner (1st) of C 2000 (DSP) Contest by Texas Instruments
+•	Received Letter of Appreciation from ERNET India.
+•	Winner (1st) of Msp430_Webench Contest by Texas Instruments
+
+### PUBLICATIONS
+
+•	Fruit Ripeness Detection with Machine Learning using Raspberry Pi (International Journal of Innovative Research (IJIRT) June 2019 | IJIRT | Volume 6 Issue 1 | ISSN: 2349-6002  www.ijirt.org)
+•	Artificial Intelligence: A boon to Web Accessibility (Institute of Research & Journals (IRAJ) www.iraj.in )
+•	Infringement of WCAG 2.0 Guidelines in Indian Government Websites (International Journal of Engineering Research and Technology (IJERT) ISSN: 2278-0181 Volume: 7 Issue 10, October 2018 www.ijert.org )
+•	Interfacing CAN Protocol with PIC Microcontroller (International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395-0056 p-ISSN: 2395-0072 Volume: 05 Issue: 09 | Sep 2018 www.irjet.net )
+
+### CERTIFICATIONS/COURSES
+
+•	Grafana and Graphite from Beginner to Advanced
+•	REST APIs with Flask and Python
+•	Internet of Things - Stanford
+•	Scrum Foundation Professional Certificate
+•	Cyber Security Foundation Professional Certificate
+•	Shell Scripting: Discover How To Automate Command Line Tasks
+•	Introduction to Git and GitHub
+•	Docker Essentials: A Developer Introduction
+•	Python for Finance: Investment Fundamentals & Data Analytics
+•	Serverless Machine Learning with Tensorflow on Google Cloud Platform
+•	Machine Learning
+•	MongoDB Basics
+•	Introduction to Modern Application Development
+•	6.00.1x: Introduction to Computer Science and Programming Using Python 
+•	C & C++ 
+
+
 
  <details>
 <summary>📊 Github Stats</summary>
