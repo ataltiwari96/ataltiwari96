@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ataltiwari96&show_icons=true&theme=gotham" alt="Atal Tiwari | Stats" />
 
-
+### Visitor Count :
  ![Visitor Count](https://profile-counter.glitch.me/{ataltiwari96}/count.svg)
  
 [twitter]: https://twitter.com/Atal_Tiwari
