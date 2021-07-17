@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 ### Badges 📛:
  <p align="left">
- <img src="https://media-exp3.licdn.com/dms/image/C4D2DAQEJVUjqkxf2pA/profile-treasury-image-shrink_1280_1280/0/1626523720969?e=1626616800&v=beta&t=1GBXLQe-fhYFUV8Dd3t3eK_hDrj8TzgDIE5KVDuVp6I" alt="ms-devops" width="40 height="40/>
- <img src="https://images.credly.com/size/680x680/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" alt="cyber" widht="40"/>
- <img src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="lifelong"  width="40" height="40"/>
- <img src="https://cdn.qwiklabs.com/tZbcgn7I6buxMKPfWQmXyf7RGr%2FVhzhssCv2Seav9AI%3D"  width="40" height="40"/>
- <img src="https://images.credly.com/size/680x680/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png"  width="40" height="40"/>
- <img src="https://images.credly.com/size/680x680/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png"  width="40" height="40"/>
- <img src="https://media-exp3.licdn.com/dms/image/C512DAQG_MNbilSJhaQ/profile-treasury-image-shrink_1920_1920/0/1598837237283?e=1626616800&v=beta&t=Bh1eL-6Y_Mc8FapzbqE9MtIGMPwviYN6rly9TKipifU"  width="40" height="40"/>
- <img src="https://media-exp3.licdn.com/dms/image/C512DAQHkqdr232jZGQ/profile-treasury-image-shrink_1920_1920/0/1598839699968?e=1626616800&v=beta&t=CjwxjRzgl5ODJ1UVS5wW82i3f7IbcpXmqNmRQVWOmN8"  width="40" height="40"/>
+ <img src="https://media-exp3.licdn.com/dms/image/C4D2DAQEJVUjqkxf2pA/profile-treasury-image-shrink_1280_1280/0/1626523720969?e=1626616800&v=beta&t=1GBXLQe-fhYFUV8Dd3t3eK_hDrj8TzgDIE5KVDuVp6I" alt="ms-devops" width="50" height="50"/>
+ <img src="https://images.credly.com/size/680x680/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" alt="cyber"  width="50" height="50"/>
+ <img src="https://images.credly.com/size/680x680/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="lifelong"  width="50" height="50"/>
+ <img src="https://cdn.qwiklabs.com/tZbcgn7I6buxMKPfWQmXyf7RGr%2FVhzhssCv2Seav9AI%3D"  width="50" height="50"/>
+ <img src="https://images.credly.com/size/680x680/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png"  width="50" height="50"/>
+ <img src="https://images.credly.com/size/680x680/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png"  width="50" height="50"/>
+ <img src="https://media-exp3.licdn.com/dms/image/C512DAQG_MNbilSJhaQ/profile-treasury-image-shrink_1920_1920/0/1598837237283?e=1626616800&v=beta&t=Bh1eL-6Y_Mc8FapzbqE9MtIGMPwviYN6rly9TKipifU"  width="50" height="50"/>
+ <img src="https://media-exp3.licdn.com/dms/image/C512DAQHkqdr232jZGQ/profile-treasury-image-shrink_1920_1920/0/1598839699968?e=1626616800&v=beta&t=CjwxjRzgl5ODJ1UVS5wW82i3f7IbcpXmqNmRQVWOmN8"  width="50" height="50"/>
  </p>
 
 ### Technology Stack 🧰:
