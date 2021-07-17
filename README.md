@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="Angular" width="40" height="40"/>
 </p>
 
-### ACHIEVEMENTS & AWARDS
+### ACHIEVEMENTS & AWARDS 🏆:
 
 * TCS Gems Star Of The Month Award
 * TCS Gems On The Spot Award
@@ -58,14 +58,14 @@ Here are some ideas to get you started:
 * Received Letter of Appreciation from ERNET India.
 * Winner (1st) of Msp430_Webench Contest by Texas Instruments
 
-### PUBLICATIONS
+### PUBLICATIONS 📃:
 
 * Fruit Ripeness Detection with Machine Learning using Raspberry Pi (International Journal of Innovative Research (IJIRT) June 2019 | IJIRT | Volume 6 Issue 1 | ISSN: 2349-6002  www.ijirt.org)
 * Artificial Intelligence: A boon to Web Accessibility (Institute of Research & Journals (IRAJ) www.iraj.in )
 * Infringement of WCAG 2.0 Guidelines in Indian Government Websites (International Journal of Engineering Research and Technology (IJERT) ISSN: 2278-0181 Volume: 7 Issue 10, October 2018 www.ijert.org )
 * Interfacing CAN Protocol with PIC Microcontroller (International Research Journal of Engineering and Technology (IRJET) e-ISSN: 2395-0056 p-ISSN: 2395-0072 Volume: 05 Issue: 09 | Sep 2018 www.irjet.net )
 
-### CERTIFICATIONS/COURSES
+### CERTIFICATIONS/COURSES 📄:
 
 * Grafana and Graphite from Beginner to Advanced
 * REST APIs with Flask and Python
