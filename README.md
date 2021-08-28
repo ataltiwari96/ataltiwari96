@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Atal 👨‍💻:
-* 🔘Working for Morgan Stanley as a Full Stack Developer at Listed Sales & Trading Unit.
+* 🔘Working as a Software Engineer at JPMorgan Chase & Co.
 * 🔘Have relevant knowledge of Banking & Financial Services Domain.
 * 🔘Technology Stack: Python, Angular, RESTful APIs, Flask, Unix, Shell Scripting, GIT, JIRA, KDB+/Q, Data Science, InfluxDB, Grafana, NLP, etc.
 
