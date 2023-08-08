@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Atal 👨‍💻:
-* 🔘Working as a Software Engineer at JPMorgan Chase & Co.
+* 🔘Working as a Python Developer & Site Reliability Engineer at Morgan Stanley
 * 🔘Have relevant knowledge of Banking & Financial Services Domain.
 * 🔘Technology Stack: Python, Angular, RESTful APIs, Flask, Unix, Shell Scripting, GIT, JIRA, KDB+/Q, Data Science, InfluxDB, Grafana, NLP, etc.
 
